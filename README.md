@@ -243,4 +243,4 @@ See the [LICENSE](LICENSE) file for complete terms and conditions.
 
 **⚠️ Disclaimer:** Always backup important data before running system cleanup tools. While this tool is designed to be safe, use at your own discretion.
 
-**Made with 💙 by the NVD Team**
+**Made with 💙 by the NVD**
