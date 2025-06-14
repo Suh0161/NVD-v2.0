@@ -2,6 +2,10 @@
 
 A powerful Windows batch script that helps you clean and optimize your system by removing temporary files, clearing caches, and freeing up valuable disk space.
 
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Batch](https://img.shields.io/badge/Batch-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
 ## ✨ Features
 
 ### 🚀 Cleanup Options
@@ -133,8 +137,8 @@ Edit the script to modify:
 ```
 📦 NVD-System-Cleanup-Tool/
 ├── 📄 cleanup.bat          # Main cleanup script
-├── 📄 README.md            # This file
-├── 📄 LICENSE              # MIT License
+├── 📄 README.md            # This documentation
+├── 📄 LICENSE              # Custom NVD License
 └── 📄 cleanup_log.txt      # Generated log file
 ```
 
@@ -214,9 +218,14 @@ We welcome contributions! Here's how you can help:
 3. Test on Windows 10/11
 4. Submit a pull request
 
-## 📄 License
+## 📄 Usage Rights
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This tool is freely available for personal use! For commercial use, businesses must contact NVD for licensing terms.
+
+**Personal Use:** ✅ Free to use, modify, and share  
+**Commercial Use:** 📧 Contact nvdyvette@gmail.com for licensing
+
+See the [LICENSE](LICENSE) file for complete terms and conditions.
 
 ## 🙏 Acknowledgments
 
@@ -234,4 +243,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **⚠️ Disclaimer:** Always backup important data before running system cleanup tools. While this tool is designed to be safe, use at your own discretion.
 
-**Made with 💙 by the NVD**
+**Made with 💙 by the NVD Team**
