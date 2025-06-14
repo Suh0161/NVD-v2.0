@@ -138,7 +138,7 @@ Edit the script to modify:
 📦 NVD-System-Cleanup-Tool/
 ├── 📄 cleanup.bat          # Main cleanup script
 ├── 📄 README.md            # This documentation
-├── 📄 LICENSE              # Custom NVD License
+├── 📄 LICENSE              # NVD License
 └── 📄 cleanup_log.txt      # Generated log file
 ```
 
